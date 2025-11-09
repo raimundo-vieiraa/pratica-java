@@ -1,0 +1,20 @@
+ ˛∫æ   A W   Ejvs01/PHVCN37   java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LEjvs01/PHVCN37; main ([Ljava/lang/String;)V	     java/lang/System   out Ljava/io/PrintStream;  0************************************************
+     java/io/PrintStream    println (Ljava/lang/String;)V  5* Aluno: Raimundo Ruan Alexandre Vieira   - 0024340 * ! 1* Classe RRAV37 - Soma at√© o n√∫mero ser m√∫ltiplo de 10 *  # java/util/Scanner	  % & ' in Ljava/io/InputStream;
+ " )  * (Ljava/io/InputStream;)V , RDigite n√∫meros para somar. O loop encerra quando um m√∫ltiplo de 10 for digitado. . Digite um n√∫mero: 
+  0 1  print
+ " 3 4 5  nextInt ()I   7 8 9 makeConcatWithConstants (I)Ljava/lang/String;
+ " ; <  close args [Ljava/lang/String;  scanner Ljava/util/Scanner; numero I soma 
+StackMapTable  > 
+SourceFile PHVCN37.java BootstrapMethods
+ J L  K $java/lang/invoke/StringConcatFactory 8 M ò(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; I P /N√∫mero m√∫ltiplo de 10 digitado. Soma total:  InnerClasses  S %java/lang/invoke/MethodHandles$Lookup  U java/lang/invoke/MethodHandles Lookup !                /     *∑ ±    
+        
+         
+   	        Ò     ^≤ ∂ ≤ ∂ ≤  ∂ ≤ ∂ ª "Y≤ $∑ (L>≤ +∂ ≤ -∂ /+∂ 2=`>
+pöˇÎ≤ ∫ 6  ∂ +∂ :±    
+   :         	  
+   
+ + 
+ -  5  =  B  F  M  Y  ]  
+   *    ^ = >   + 3 ? @  B  A B  - 1 C B  D    ˇ 5   E  "     F    G H     N  O Q   
+  R T V 

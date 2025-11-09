@@ -1,0 +1,19 @@
+Êþº¾   A F   Ejvs01/Exercicio04   java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LEjvs01/Exercicio04; main ([Ljava/lang/String;)V	     java/lang/System   out Ljava/io/PrintStream;  0************************************************
+     java/io/PrintStream    println (Ljava/lang/String;)V  5* Aluno: Raimundo Ruan Alexandre Vieira   - 0024340 * ! 1* Classe RRAV04 - Pode votar? *  # java/util/Scanner	  % & ' in Ljava/io/InputStream;
+ " )  * (Ljava/io/InputStream;)V , Digite sua idade: 
+  . /  print
+ " 1 2 3  nextInt ()I 5 'VocÃª pode votar e Ã© obrigado a votar. 7 ,VocÃª pode votar, mas o voto Ã© facultativo. 9 VocÃª nÃ£o pode votar.
+ " ; <  close args [Ljava/lang/String;  scanner Ljava/util/Scanner; idade I 
+StackMapTable 
+SourceFile Exercicio04.java !                /     *· ±    
+        
+         
+   	        î     g² ¶ ² ¶ ²  ¶ ² ¶ » "Y² $· (L² +¶ -+¶ 0=¡ ² 4¶ § ¡ ² 6¶ § 
+² 8¶ +¶ :±    
+   >         	  
+   
+ +  3 
+ 8  >  F  O  W  Z  b  f  
+        g = >   + < ? @  8 / A B  C   
+ ý I  "   D    E

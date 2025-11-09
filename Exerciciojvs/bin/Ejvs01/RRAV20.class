@@ -1,0 +1,22 @@
+ ˛∫æ   A h   Ejvs01/PHVCN20   java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LEjvs01/PHVCN20; main ([Ljava/lang/String;)V	     java/lang/System   out Ljava/io/PrintStream;  0************************************************
+     java/io/PrintStream    println (Ljava/lang/String;)V  5* Aluno: Raimundo Ruan Alexandre Vieira   - 0024340 * ! 1* Classe RRAV20 - N√∫meros de Fibonacci (n termos) *  # java/util/Scanner	  % & ' in Ljava/io/InputStream;
+ " )  * (Ljava/io/InputStream;)V , ,Digite a quantidade de termos de Fibonacci: 
+  . /  print
+ " 1 2 3  nextInt ()I 5 )A quantidade de termos deve ser positiva.   7 8 9 makeConcatWithConstants (I)Ljava/lang/String; ; ,  =    ? 8 @ '(JLjava/lang/String;)Ljava/lang/String;
+  B  
+ " D E  close args [Ljava/lang/String;  scanner Ljava/util/Scanner; n I a J b i  proximo 
+StackMapTable  G  T java/lang/String 
+SourceFile PHVCN20.java BootstrapMethods
+ Y [  Z $java/lang/invoke/StringConcatFactory 8 \ ò(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; X _ (Os  primeiros termos de Fibonacci s√£o: a  InnerClasses  d %java/lang/invoke/MethodHandles$Lookup  f java/lang/invoke/MethodHandles Lookup !                /     *∑ ±    
+        
+         
+   	       î  
+   ò≤ ∂ ≤ ∂ ≤  ∂ ≤ ∂ ª "Y≤ $∑ (L≤ +∂ -+∂ 0=ù ≤ 4∂ ß S	B
+7≤ ∫ 6  ∂ 6 ß ,≤ ! ¢ :ß <∫ >  ∂ -!a7B7Ñ  §ˇ‘≤ ∂ A+∂ C±    
+   V         	  
+   
+ +  3 
+ 8  <  D  G  L  X  ^  w  }  Ä  Ñ  ç  ì  ó  
+   H     ò F G   + m H I  8 ` J K  I N L M  L K N M  [ 2 O K   }   P M  Q   @ ˝ G  "˛ ˇ    R  "   ˇ    R  "     S¯   U    V W     ]  ^ ]  ` b   
+  c e g 

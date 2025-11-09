@@ -1,0 +1,18 @@
+Êþº¾   A H   Ejvs01/Exercicio06   java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LEjvs01/Exercicio06; main ([Ljava/lang/String;)V	     java/lang/System   out Ljava/io/PrintStream;  0************************************************
+     java/io/PrintStream    println (Ljava/lang/String;)V  5* Aluno: Raimundo Ruan Alexandre Vieira   - 0024340 * ! 1* Classe RRAV06 - MÃºltiplo de 3 e/ou 5 *  # java/util/Scanner	  % & ' in Ljava/io/InputStream;
+ " )  * (Ljava/io/InputStream;)V , Digite um nÃºmero inteiro: 
+  . /  print
+ " 1 2 3  nextInt ()I 5 #O nÃºmero Ã© mÃºltiplo de 3 e de 5. 7 +O nÃºmero Ã© mÃºltiplo de 3, mas nÃ£o de 5. 9 +O nÃºmero Ã© mÃºltiplo de 5, mas nÃ£o de 3. ; *O nÃºmero nÃ£o Ã© mÃºltiplo de 3 nem de 5.
+ " = >  close args [Ljava/lang/String;  scanner Ljava/util/Scanner; numero I 
+StackMapTable 
+SourceFile Exercicio06.java !                /     *· ±    
+        
+         
+   	            ~² ¶ ² ¶ ²  ¶ ² ¶ » "Y² $· (L² +¶ -+¶ 0=pš pš ² 4¶ § -pš ² 6¶ § pš ² 8¶ § 
+² :¶ +¶ <±    
+   F         	  
+   
+ +  3 
+ 8  D  L  U  ]  f  n  q  y  }  
+        ~ ? @   + S A B  8 F C D  E    ý O  "   F    G

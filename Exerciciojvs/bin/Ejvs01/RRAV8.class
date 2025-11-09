@@ -1,0 +1,20 @@
+Êþº¾   A T   Ejvs01/Exercicio08   java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LEjvs01/Exercicio08; main ([Ljava/lang/String;)V	     java/lang/System   out Ljava/io/PrintStream;  0************************************************
+     java/io/PrintStream    println (Ljava/lang/String;)V  5* Aluno: Raimundo Ruan Alexandre Vieira   - 0024340 * ! 1* Classe RRAV08 - Login simples *  # java/util/Scanner	  % & ' in Ljava/io/InputStream;
+ " )  * (Ljava/io/InputStream;)V , admin . 12345 0 
+UsuÃ¡rio: 
+  2 3  print
+ " 5 6 7 nextLine ()Ljava/lang/String; 9  Senha: 
+ ; =  < java/lang/String > ? equals (Ljava/lang/Object;)Z A !Login bem-sucedido! Bem-vindo(a). C #Erro: UsuÃ¡rio ou senha incorretos.
+ " E F  close args [Ljava/lang/String;  scanner Ljava/util/Scanner; usuarioCorreto Ljava/lang/String; senhaCorreta  usuario senha 
+StackMapTable  H 
+SourceFile Exercicio08.java !                /     *· ±    
+        
+         
+   	       5     w² ¶ ² ¶ ²  ¶ ² ¶ » "Y² $· (L+M-N² /¶ 1+¶ 4:² 8¶ 1+¶ 4:,¶ :™ -¶ :™ ² @¶ § 
+² B¶ +¶ D±    
+   F         	  
+   
+ +  . 
+ 1  9  ?  G  M  _  g  j  r  v  
+   >    w G H   + L I J  . I K L  1 F M L  ? 8 N L  M * O L  P    ÿ j   Q  "  ;  ;  ;  ;     R    S
